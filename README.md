@@ -1,1 +1,2 @@
 # eigenvalues_calculator
+In this project, we have implemented core matrix operations using the C programming language. Our focus is on calculating the eigenvalues of a given matrix, performing LU decomposition for matrix factorization, computing the inverse of a 3x3 matrix, and determining the matrix's determinant. These operations are fundamental in numerical analysis, scientific computing, and various engineering applications. By leveraging the efficiency of C, the project aims to provide a robust solution for handling these mathematical computations.
